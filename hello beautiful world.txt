@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<p>
-			Hello Beautiful World
+			Hello Beautiful World!
 		</p>
 	</body>
 </html>
